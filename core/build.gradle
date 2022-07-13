@@ -44,7 +44,7 @@ android {
 dependencies {
 
     // Coroutines
-    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.1'
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4'
 
     // Browser
     implementation 'androidx.browser:browser:1.4.0'
